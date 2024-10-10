@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App3_Extensions", "App3_Ext
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App4_Stack", "App4_Stack\App4_Stack.csproj", "{9BB11FB5-C84C-4A5E-B7CE-BCC9A21097B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App5_Queue", "App5_Queue\App5_Queue.csproj", "{579E1A41-1C14-4B32-B62C-5285F9E67FA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App5_Queue", "App5_Queue\App5_Queue.csproj", "{579E1A41-1C14-4B32-B62C-5285F9E67FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_Json", "Serialization_Json\Serialization_Json.csproj", "{CD47A58F-B6E6-49D1-9A4E-6707CCA37FAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{579E1A41-1C14-4B32-B62C-5285F9E67FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579E1A41-1C14-4B32-B62C-5285F9E67FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579E1A41-1C14-4B32-B62C-5285F9E67FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD47A58F-B6E6-49D1-9A4E-6707CCA37FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD47A58F-B6E6-49D1-9A4E-6707CCA37FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD47A58F-B6E6-49D1-9A4E-6707CCA37FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD47A58F-B6E6-49D1-9A4E-6707CCA37FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
